@@ -10,6 +10,7 @@
     "lint": "eslint --ext .js ."
   },
   "dependencies": {
+    "inquirer": "^6.0.0",
     "nodegit": "^0.22.1"
   },
   "devDependencies": {
