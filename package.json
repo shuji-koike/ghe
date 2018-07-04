@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:shuji-koike/ghe.git",
   "author": "<shuji.koike@me.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodegit": "^0.22.1"
+  }
 }
