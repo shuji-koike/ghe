@@ -6,10 +6,14 @@
   "repository": "git@github.com:shuji-koike/ghe.git",
   "author": "<shuji.koike@me.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ext .js ."
+  },
   "dependencies": {
     "nodegit": "^0.22.1"
   },
   "devDependencies": {
-    "eslint": "^5.0.1"
+    "eslint": "^5.0.1",
+    "nodemon": "^1.17.5"
   }
 }
