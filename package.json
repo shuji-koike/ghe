@@ -1,0 +1,9 @@
+{
+  "name": "ghe",
+  "version": "0.0.0",
+  "description": "git history editor",
+  "main": "index.js",
+  "repository": "git@github.com:shuji-koike/ghe.git",
+  "author": "<shuji.koike@me.com>",
+  "license": "MIT"
+}
