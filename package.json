@@ -10,6 +10,7 @@
     "lint": "eslint --ext .js ."
   },
   "dependencies": {
+    "dugite": "^1.67.0",
     "inquirer": "^6.0.0",
     "keypress": "^0.2.1",
     "nodegit": "^0.22.1"
