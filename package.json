@@ -23,6 +23,7 @@
     "@types/react-dom": "^16.0.6",
     "electron": "^2.0.4",
     "eslint": "^5.0.1",
+    "fuse-box": "^3.3.0",
     "nodemon": "^1.17.5",
     "typescript": "^2.9.2"
   }
