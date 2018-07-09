@@ -29,6 +29,7 @@
     "eslint": "^5.0.1",
     "fuse-box": "^3.3.0",
     "nodemon": "^1.17.5",
+    "react-sortable-hoc": "^0.8.3",
     "reactstrap": "^6.2.0",
     "ts-node": "^7.0.0",
     "typescript": "^2.9.2",
