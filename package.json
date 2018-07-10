@@ -18,6 +18,7 @@
     "react-dom": "^16.4.1"
   },
   "devDependencies": {
+    "@github/octicons-react": "^7.4.0",
     "@types/electron": "^1.6.10",
     "@types/es6-collections": "^0.5.31",
     "@types/node": "^10.5.2",

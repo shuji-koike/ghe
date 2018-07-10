@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@github/octicons-react@^7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@github/octicons-react/-/octicons-react-7.4.0.tgz#d5f12a59cde67b07ce17a4c4b5cb51a030718a30"
+  dependencies:
+    prop-types "^15.6.1"
+
 "@types/electron@^1.6.10":
   version "1.6.10"
   resolved "https://registry.yarnpkg.com/@types/electron/-/electron-1.6.10.tgz#7e87888ed3888767cca68e92772c2c8ea46bc873"
