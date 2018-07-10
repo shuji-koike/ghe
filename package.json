@@ -13,6 +13,7 @@
     "dugite": "^1.67.0",
     "inquirer": "^6.0.0",
     "keypress": "^0.2.1",
+    "moment": "^2.22.2",
     "nodegit": "^0.22.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
