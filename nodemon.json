@@ -1,0 +1,5 @@
+{
+  "verbose": true,
+  "ignore": ["dist", "node_modules"],
+  "ext": ".js,.jsx,.ts,.tsx,.json"
+}

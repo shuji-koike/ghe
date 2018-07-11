@@ -1,0 +1,39 @@
+body {
+  font-size: 0.8rem;
+}
+
+input[type="checkbox"] + * {
+  margin-left: 0.5rem;
+}
+.octicon + * {
+  margin-left: 0.5rem;
+}
+.list-group:first-child {
+  margin-top: 1rem;
+}
+.list-group + .list-group {
+  margin-top: 1rem;
+}
+
+.list-group-item {
+  padding: 0.25rem 0.5rem;
+}
+.list-group-item p {
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.list-group-item label {
+  display: inline;
+}
+.list-group-item .badge {
+  display: none;
+  float: right;
+  margin-top: 0.25rem;
+}
+
+.FileList .octicon {
+  float: right;
+  margin-top: 4px;
+}

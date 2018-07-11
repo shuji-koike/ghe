@@ -7,6 +7,9 @@
   "author": "<shuji.koike@me.com>",
   "license": "MIT",
   "scripts": {
+    "clean": "git clean -dxf dist .fusebox",
+    "build": "ts-node fuse.ts",
+    "start": "electron .",
     "lint": "eslint --ext .js ."
   },
   "dependencies": {

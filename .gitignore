@@ -1,3 +1,7 @@
+# project
+/dist
+.fusebox
+
 # Logs
 logs
 *.log
