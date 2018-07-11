@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@github/octicons-react": "^7.4.0",
+    "@types/blessed": "^0.1.10",
     "@types/electron": "^1.6.10",
     "@types/es6-collections": "^0.5.31",
     "@types/node": "^10.5.2",
