@@ -37,6 +37,7 @@
     "react-sortable-hoc": "^0.8.3",
     "reactstrap": "^6.2.0",
     "ts-node": "^7.0.0",
+    "tslint": "^5.10.0",
     "typescript": "^2.9.2",
     "wait-port": "^0.2.2"
   }
